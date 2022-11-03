@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.progam.tour" name="repository.tour" version="1.0" provider-name="touretts24">
+<addon id="plugin.progam.tour" name="repository.example" version="1.0" provider-name="touretts24">
     <extension point="xbmc.addon.repository" name="Tour Repository">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/touretts24/repository.tour/master/repo/zips/addons.xml</info>
+            <info compressed="false">https://raw.githubusercontent.com/touretts24/repository.example/master/repo/zips/addons.xml</info>
         <!--    <checksum>https://raw.githubusercontent.com/touretts24/Repository.tour/master/repo/zips/addons.xml.md5</checksum> -->
-            <datadir zip="true">https://raw.githubusercontent.com/touretts24/repository.tour/master/repo/zips/</datadir>
+            <datadir zip="true">https://raw.githubusercontent.com/touretts24/repository.example/master/repo/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>repository.tour</summary>
+        <summary>repository.emaxple</summary>
         <description>DESCRIPTION OF YOUR REPO HERE</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
